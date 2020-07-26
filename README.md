@@ -1,16 +1,22 @@
-### Hi there 👋
+### Jackelele
 
-<!--
-**Jackelele/jackelele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![version](https://img.shields.io/npm/v/jackelele.svg?style=flat-square)](http://npm.im/jackelele)
+[![MIT License](https://img.shields.io/npm/l/jackelele.svg?style=flat-square)](http://opensource.org/licenses/MIT
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly made this to avoid someone else from taking 'Jackelele' first hehe.
+
+
+## Usuage
+
+```javascript
+var jackelele = require('jackelele')
+console.log(jackelele.github) // https://github.com/jackelele
+// etc ... 
+```
+
+## License
+MIT 
+
+All rights Reserved 2020. Elele Team LTD.
+legal@elele.team
